@@ -1,8 +1,8 @@
 # Building the web server infrastructure
 
-After setting up your devops env and exporting your AWS user credentials to the environment you should and install Terrform 0.12:
+After all Necessary setup up your env and exporting your AWS user credentials to the environment you should and install Terrform 0.12:
 
-``Edit **terraform.tfvars** and set your correct IP address so that you and only you can ssh into the ec2 instance``
+``Edit terraform.tfvars and set your Local IP address so that you and only you can ssh into the ec2 instance``
 
 Next, build the web server from within the EcolibriumDevOpsTest directory by:
 
