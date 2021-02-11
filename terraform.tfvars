@@ -1,0 +1,5 @@
+region       = "us-west-2"
+server_name  = "web-server"
+ssh_key_name = "web-server"
+ami          = "ami-0928f4202481dfdf6"
+local_ip     = "111.125.230.59"
