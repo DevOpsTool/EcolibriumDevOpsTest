@@ -21,7 +21,7 @@ You can ssh into the EC2 instance using:
 ``ssh -i ~/.ssh/id_rsa ubuntu@THE_PUBLIC_IP_DISPLAYED_IN_THE_CONSOLE``
 # Running the check The Webserver is up or not
 
-Run the tests from within the web-server directory
+Run the tests from within the EcolibriumDevOpsTest directory
 
 ``./checker.sh devopstest.webnaveen.com``
 
