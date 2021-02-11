@@ -1,6 +1,6 @@
 # Building the web server infrastructure
 
-After setting up your devops env and exporting your AWS user credentials to the environment you should:
+After setting up your devops env and exporting your AWS user credentials to the environment you should and install Terrform 0.12:
 
 ``Edit **terraform.tfvars** and set your correct IP address so that you and only you can ssh into the ec2 instance``
 
