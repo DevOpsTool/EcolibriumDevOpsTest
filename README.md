@@ -4,7 +4,7 @@ After setting up your devops env and exporting your AWS user credentials to the 
 
 ``Edit **terraform.tfvars** and set your correct IP address so that you and only you can ssh into the ec2 instance``
 
-Next, build the web server from within the web-server directory by:
+Next, build the web server from within the EcolibriumDevOpsTest directory by:
 
 ``terraform init``
 
