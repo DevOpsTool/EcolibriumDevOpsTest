@@ -27,6 +27,6 @@ Run the tests from within the EcolibriumDevOpsTest directory
 
 # Removing the web server infrastructure
 
-When you are ready to remove your infrastructure execute from inside the web-server directory
+When you are ready to remove your infrastructure execute from inside the EcolibriumDevOpsTest directory
 
 ``terraform destroy``
