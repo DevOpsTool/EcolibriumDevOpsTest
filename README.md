@@ -18,7 +18,7 @@ Next, build the web server from within the web-server directory by:
 
 You can ssh into the EC2 instance using:
 
-``ssh -i $HOME/.ssh/id_rsa ubuntu@THE_PUBLIC_IP_DISPLAYED_IN_THE_CONSOLE``
+``ssh -i ~/.ssh/id_rsa ubuntu@THE_PUBLIC_IP_DISPLAYED_IN_THE_CONSOLE``
 # Running the check The Webserver is up or not
 
 Run the tests from within the web-server directory
